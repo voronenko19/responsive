@@ -1,1 +1,1 @@
-# responsive
+# Simple responsive page
